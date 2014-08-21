@@ -8,6 +8,8 @@ gem 'sqlite3'
 
 gem 'carrierwave'
 
+gem 'mini_magick', '3.7.0'
+
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
 # Use Uglifier as compressor for JavaScript assets
@@ -40,4 +42,10 @@ gem 'spring',        group: :development
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+gem 'devise'
+
+gem 'bcrypt'
+
+gem 'gravtastic'
 
